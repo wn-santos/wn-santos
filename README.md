@@ -20,18 +20,19 @@
 </div>
 
 ##
+<div align="center">
 <h3> 😄 About Me </h3>
 
--  👨‍💻 I currently work at [Körber Supply Chain LATAM](https://www.koerber-supplychain.com/pt/) as a System Support Analyst
--  📍 I'm based in Blumenau - SC, Brazil
--  👨🏼‍💼 Founder of Devsoft Enterprise®
--  🤔 Always thirst for learning, knowledge and experience
-
+  👨‍💻 I currently work at [Körber Supply Chain LATAM](https://www.koerber-supplychain.com/pt/) as a System Support Analyst
+  📍 I'm based in Blumenau - SC, Brazil
+  👨🏼‍💼 Founder of Devsoft Enterprise®
+  🤔 Always thirst for learning, knowledge and experience
+</dvi>
 ##
-
+<div align="center">
 <h3> 🛠 Tech Stack</h3>
 <h4>💻 Front-end:</h4>
-<p align="left">
+<p>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="Css3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a></a>
@@ -40,15 +41,17 @@
 
 <h4>⚙️ Back-end & Data Base</h4>
 
-<p align="left">
+<p>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="kotlin" /></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="postgresql" /></a>
 <a href="https://www.mysql.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="mysql" /></a>
 <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="microsoftsqlserver"/></a>
 </p>
+</div>
 
 ##
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wn-santos&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="WN SANTOS github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wn-santos&layout=compact&hide_border=true&title_color=00FFFF&text_color=00FFFF&bg_color=0d1117" />
