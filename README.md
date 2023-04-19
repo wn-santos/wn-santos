@@ -6,11 +6,14 @@
   </p>
 </p>
 
-##
+
+
 <p align="center">
  <p align="center">I'm a 27 year old developer and system support analyst at the moment. Also an admirer of the world of technology, I have more than 6 years of experience in the area, I am a specialist in solving technology problems, in developing solutions for the needs of our customers. I have concentration and attention to detail skills, I am able to quickly analyze and identify problems to find effective solutions.</p>
  <p align="center">Furthermore, my empathy with end users allows me to understand their needs and develop solutions that meet their expectations. As a collaborator I am always willing to help my colleagues and share my knowledge.</p>
 </p>
+
+##
 
 <div align="center">
 <h3> Find me in 👇 </h3>
