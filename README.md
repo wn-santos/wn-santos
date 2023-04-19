@@ -1,7 +1,9 @@
 
 <p align="center">
- <img width="150px" src="https://avatars.githubusercontent.com/u/55114046?v=4" align="center" alt="GitHub Readme Stats" />
- <p align="center">Hello! My name is Wemerson Santos 🤟</p>
+ <!--img width="150px" src="https://avatars.githubusercontent.com/u/55114046?v=4" align="center" alt="GitHub Readme Stats" /-->
+ <p align="center">
+   <h2 align="center">Hello! My name is Wemerson Santos 🤟</h2>
+  </p>
 </p>
 
 ##
