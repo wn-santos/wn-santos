@@ -20,15 +20,18 @@
 </div>
 
 ##
+
 <div align="center">
 <h3> 😄 About Me </h3>
 
-  👨‍💻 I currently work at [Körber Supply Chain LATAM](https://www.koerber-supplychain.com/pt/) as a System Support Analyst
-  📍 I'm based in Blumenau - SC, Brazil
-  👨🏼‍💼 Founder of Devsoft Enterprise®
+  👨‍💻 I currently work at [Körber Supply Chain LATAM](https://www.koerber-supplychain.com) as a System Support Analyst</br>
+  📍 I'm based in Blumenau - SC, Brazil</br>
+  👨🏼‍💼 Founder of Devsoft Enterprise®</br>
   🤔 Always thirst for learning, knowledge and experience
-</dvi>
+</div>
+
 ##
+
 <div align="center">
 <h3> 🛠 Tech Stack</h3>
 <h4>💻 Front-end:</h4>
