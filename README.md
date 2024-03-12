@@ -29,7 +29,7 @@
 <div align="center">
 <h3> 😄 About Me </h3>
 
-  👨‍💻 I currently work at [Körber Supply Chain LATAM](https://www.koerber-supplychain.com) as a System Support Analyst</br>
+  👨‍💻 I currently work at [Devsoft Enterprise®](https://www.devsoftenterprise.com.br) as a UX/UI Design</br>
   📍 I'm based in Blumenau - SC, Brazil</br>
   👨🏼‍💼 CEO & Founder of [Devsoft Enterprise®](https://www.devsoftenterprise.com.br)</br>
   🤔 Always thirst for learning, knowledge and experience
