@@ -55,6 +55,7 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="postgresql" /></a>
 <a href="https://www.mysql.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="mysql" /></a>
 <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="microsoftsqlserver"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo.png" width="36" height="36" alt="python"/></a>
 </p>
 </div>
 
