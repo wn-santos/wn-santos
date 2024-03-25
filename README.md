@@ -62,6 +62,8 @@
 
 <p>
 <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo-0-2048x2048.png" width="36" height="36" alt="figma"/></a>
+<a href="https://powerbi.microsoft.com/pt-br/landing/free-account/?ef_id=_k_Cj0KCQjwwYSwBhDcARIsAOyL0fit97p3FpLsioXH1jrGlzeaPz9z2_nvWFxviGzpTzBPnswk-vSxcD4aAhtGEALw_wcB_k_&OCID=AIDcmmk4cy2ahx_SEM__k_Cj0KCQjwwYSwBhDcARIsAOyL0fit97p3FpLsioXH1jrGlzeaPz9z2_nvWFxviGzpTzBPnswk-vSxcD4aAhtGEALw_wcB_k_&gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fit97p3FpLsioXH1jrGlzeaPz9z2_nvWFxviGzpTzBPnswk-vSxcD4aAhtGEALw_wcB" target="_blank" rel="noreferrer"><img src="https://projetisolutions.com.br/arquivos/fotos/powerbi-2-1611094207.png" width="36" height="36" alt="power-bi"/></a>
+ 
 </p>
 </div>
 
