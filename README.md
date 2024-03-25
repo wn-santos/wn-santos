@@ -56,9 +56,7 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="postgresql" /></a>
 <a href="https://www.mysql.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="mysql" /></a>
 <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="microsoftsqlserver"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo.png" width="36" height="36" alt="python"/></a>
 </p>
-</div>
 
 <h4>⚒️ SKILLS</h4>
 
@@ -66,7 +64,8 @@
 <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo-0-2048x2048.png" width="36" height="36" alt="figma"/></a>
 </p>
 </div>
-## SKILLS
+
+##
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wn-santos&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="WN SANTOS github stats" /> 
