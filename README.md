@@ -50,6 +50,7 @@
 <h4>⚙️ Back-end & Data Base</h4>
 
 <p>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo.png" width="36" height="36" alt="python"/></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="kotlin" /></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="postgresql" /></a>
@@ -59,7 +60,13 @@
 </p>
 </div>
 
-##
+<h4>⚒️ SKILLS</h4>
+
+<p>
+<a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo-0-2048x2048.png" width="36" height="36" alt="figma"/></a>
+</p>
+</div>
+## SKILLS
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wn-santos&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="WN SANTOS github stats" /> 
